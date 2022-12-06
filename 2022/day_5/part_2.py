@@ -1,5 +1,4 @@
 import re
-from collections import deque
 
 file = open("day_5/input", "r")
 input = file.read()
